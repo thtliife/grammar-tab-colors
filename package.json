@@ -1,0 +1,15 @@
+{
+  "name": "grammar-tab-colors",
+  "main": "./lib/grammar-tab-colors",
+  "version": "0.0.0",
+  "description": "Custom tab decorations based on the tabs current grammar",
+  "keywords": [
+  ],
+  "repository": "https://github.com/thtliife/grammar-tab-colors",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
