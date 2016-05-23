@@ -1,7 +1,7 @@
 {
   "name": "grammar-tab-colors",
   "main": "./lib/grammar-tab-colors",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Custom tab decorations based on the tabs current grammar",
   "keywords": [
     "tabs",
@@ -14,6 +14,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
