@@ -28,9 +28,11 @@ Or search for `grammar-tab-colors` in Atom settings view
   Select the style of decoration you would like, along with applicable settings.
   (e.g. Opacity, size & position of the decirations.)
 
+![Grammar Tab Colors Demo](http://i.imgur.com/Jru7GVI.gif =500px)
+
 ## Roadmap
 
-*v0.0.2*
+*v0.2.0*
 *   More tab decoration styles maybe?
 
 ## Built With
