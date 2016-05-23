@@ -4,6 +4,10 @@
   "version": "0.0.0",
   "description": "Custom tab decorations based on the tabs current grammar",
   "keywords": [
+    "tabs",
+    "color",
+    "colour",
+    "grammar"
   ],
   "repository": "https://github.com/thtliife/grammar-tab-colors",
   "license": "MIT",
