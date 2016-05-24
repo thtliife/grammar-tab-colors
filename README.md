@@ -5,9 +5,9 @@ The Grammar Tab Colors atom package allows you to have custom tab decorations in
 
 [Grammar Tab Colors on atom.io](https://atom.io/packages/grammar-tab-colors)
 
-[![Wercker](https://img.shields.io/wercker/ci/wercker/docs.svg?maxAge=2592000)](https://github.com/thtliife/servicenow-sync)
-[![GitHub issues](https://img.shields.io/github/issues/thtliife/servicenow-sync.svg)](https://github.com/thtliife/servicenow-sync/issues)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/thtliife/servicenow-sync/master/LICENSE.md)
+[![Wercker](https://img.shields.io/wercker/ci/wercker/docs.svg?maxAge=2592000)](https://github.com/thtliife/grammar-tab-colors)
+[![GitHub issues](https://img.shields.io/github/issues/thtliife/grammar-tab-colors.svg)](https://github.com/thtliife/grammar-tab-colors/issues)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/thtliife/grammar-tab-colors/master/LICENSE.md)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/thtliife/grammar-tab-colors.svg?style=social)](https://twitter.com/intent/tweet?text=Check out @thtliife%27s grammar-tab-colors package, for %23githubs awesome %23atom text editor!:&url=https%3A%2F%2Fatom.io%2Fpackages%2Fgrammar-tab-colors)
 
