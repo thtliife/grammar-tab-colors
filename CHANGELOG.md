@@ -2,6 +2,11 @@
 
 ## Changelog
 
+### 0.1.6 - *2016-05-25*
+
+*   Cleaned up redundant code
+*   Updated [README.md](README.md)
+
 ### 0.1.5 - *2016-05-25*
 
 *   Fixed exception on deactivation (disabling of package)

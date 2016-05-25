@@ -5,6 +5,8 @@ The Grammar Tab Colors atom package allows you to have custom tab decorations in
 
 [Grammar Tab Colors on atom.io](https://atom.io/packages/grammar-tab-colors)
 
+[![Atom Package](https://img.shields.io/apm/v/grammar-live-reload.svg)](https://atom.io/packages/grammar-tab-colors)
+[![Atom Package Downloads](https://img.shields.io/apm/dm/grammar-tab-colors.svg)](https://atom.io/packages/grammar-tab-colors)
 [![Wercker](https://img.shields.io/wercker/ci/wercker/docs.svg?maxAge=2592000)](https://github.com/thtliife/grammar-tab-colors)
 [![GitHub issues](https://img.shields.io/github/issues/thtliife/grammar-tab-colors.svg)](https://github.com/thtliife/grammar-tab-colors/issues)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/thtliife/grammar-tab-colors/master/LICENSE.md)
