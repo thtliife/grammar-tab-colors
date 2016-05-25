@@ -2,7 +2,7 @@
 
 ## Changelog
 
-### 0.2.0 - *2016-05-25*
+### 0.1.7 - *2016-05-25*
 
 *   Improved code efficiency for handling each tab and decoration type
 
