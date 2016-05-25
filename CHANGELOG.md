@@ -2,12 +2,15 @@
 
 ## Changelog
 
+### 0.2.0 - *2016-05-25*
+
+*   Improved code efficiency for handling each tab and decoration type
+
 ### 0.1.6 - *2016-05-25*
 
 *   Cleaned up redundant code
-*   Updated [README.md](README.md)
 
-### 0.1.5 - *2016-05-25*
+*   Updated [README.md](README.md)
 
 *   Fixed exception on deactivation (disabling of package)
 
