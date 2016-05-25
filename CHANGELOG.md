@@ -2,10 +2,23 @@
 
 ## Changelog
 
-### 0.1.3 - *2016-05-25*
+### 0.1.5 - *2016-05-25*
+
+*   Fixed exception on deactivation (disabling of package)
+
+*   Fixed all unsaved tabs being set to same grammar on grammar change of any
+    unsaved tab
+
+*   Fixed new tab redecorating all unsaved tabs
+
+### 0.1.4 - *2016-05-24*
+
+*   Fixed incorrect hyperlinks for status icons in [README.md](README.md)
+
+### 0.1.3 - *2016-05-24*
 
 *   Added stylesheet hot reload on settings changes
-*   Updated README.md
+*   Updated [README.md](README.md)
 *   Renamed LICENSE file back to LICENSE.md as atom.io still does not find it
 
 ### 0.1.2 - *2016-05-24*
