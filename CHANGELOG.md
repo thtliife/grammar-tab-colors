@@ -2,6 +2,10 @@
 
 ## Changelog
 
+### 0.2.2 - *2016-10-10*
+
+*   Fix possible error when requiring file not yet written to disk
+
 ### 0.2.1 - *2016-10-10*
 
 *   Fix late loaded custom grammars not displayed in config 
