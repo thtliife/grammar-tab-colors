@@ -1,25 +1,14 @@
 'use babel'
 /* global atom */
 const fs = require('fs')
-const thisDir = __dirname
-const grammarsFile = thisDir + '/grammars.json'
+const path = require('path')
 let props = {}
-// let grammarsDescription = 'Configure the colors for all installed grammars here. For files do not have a recognized grammar, set the "Null Grammar" color.'
+const thisDir = path.resolve(__dirname)
+const grammarsFile = path.resolve(thisDir, 'grammars.json')
 if (!fs.existsSync(grammarsFile)) {
-  fs.writeFile(grammarsFile, '{}', () => {
-    const pattern = 'config$'
-    const utilFile = thisDir.replace(new RegExp(pattern), 'lib/grammar-tab-colors-utils')
-    let gtcUtils = require(utilFile)
-    gtcUtils.setGrammarConfig((grammarsConfig) => {
-      props = grammarsConfig
-      atom.config.setSchema('grammar-tab-colors.grammars', {type: 'object', properties: grammarsConfig})
-      gtcUtils.setLessStyles(() => {
-        atom.packages.reloadActivePackageStyleSheets()
-      })
-    })
-  })
+  fs.writeFile(grammarsFile, '{}')
 } else {
-  props = JSON.parse(fs.readFileSync(grammarsFile))
+  props = require(grammarsFile)
 }
 
 module.exports = {
