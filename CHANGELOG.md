@@ -2,6 +2,11 @@
 
 ## Changelog
 
+### 0.2.1 - *2016-10-10*
+
+*   Fix late loaded custom grammars not displayed in config 
+*   Refactored requires to use path.resolve() method
+
 ### 0.2.0 - *2016-05-25*
 
 *   Improved code efficiency for handling each tab and decoration type
