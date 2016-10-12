@@ -1,7 +1,7 @@
 {
   "name": "grammar-tab-colors",
   "main": "./lib/grammar-tab-colors",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Custom tab decorations based on the tabs current grammar",
   "keywords": [
     "tabs",
