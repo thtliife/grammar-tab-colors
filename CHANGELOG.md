@@ -2,6 +2,10 @@
 
 ## Changelog
 
+### 0.2.5 - *2016-10-12*
+
+*   Fixed typo throwing error for function not found
+
 ### 0.2.4 - *2016-10-12*
 
 *   Fixed hung tab bar from previous commit
