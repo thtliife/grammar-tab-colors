@@ -2,6 +2,10 @@
 
 ## Changelog
 
+### 0.2.4 - *2016-10-12*
+
+*   Fixed hung tab bar from previous commit
+
 ### 0.2.3 - *2016-10-12*
 
 *   Refactored for changes in Atom 1.11+
