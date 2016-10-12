@@ -2,6 +2,12 @@
 
 ## Changelog
 
+### 0.2.3 - *2016-10-12*
+
+*   Refactored for changes in Atom 1.11+
+*   Fixed a bug which caused TAB keypress to not work after exception from
+    the package
+
 ### 0.2.2 - *2016-10-10*
 
 *   Fix possible error when requiring file not yet written to disk

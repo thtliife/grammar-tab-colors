@@ -1,17 +1,9 @@
 'use babel'
-/* global atom */
-const fs = require('fs')
-const path = require('path')
-let props = {}
-const thisDir = path.resolve(__dirname)
-const grammarsFile = path.resolve(thisDir, 'grammars.json')
-if (!fs.existsSync(grammarsFile)) {
-  fs.writeFile(grammarsFile, '{}')
-} else {
-  props = require(grammarsFile)
-}
 
-module.exports = {
+import path from 'path'
+const grammarsDefinition = require(path.resolve(__dirname, 'grammars.json'))
+
+export default {
   enable: {
     title: 'Enable tab decorations',
     default: true,
@@ -60,7 +52,7 @@ module.exports = {
   grammars: {
     type: 'object',
     title: 'Grammars',
-    properties: props,
+    properties: grammarsDefinition,
     order: 6
   }
 }
