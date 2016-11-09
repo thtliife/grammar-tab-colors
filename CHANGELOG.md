@@ -2,6 +2,10 @@
 
 ## Changelog
 
+### 0.2.6 - *2016-11-10*
+
+*   Fixed a bug which caused an error to occur when upgrading the package
+
 ### 0.2.5 - *2016-10-12*
 
 *   Fixed typo throwing error for function not found
