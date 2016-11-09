@@ -2,6 +2,11 @@
 
 ## Changelog
 
+
+### 0.2.6 - *2016-11-10*
+
+*   Fixed an issue causing tabs not to decorate on upgrade until window reload
+
 ### 0.2.6 - *2016-11-10*
 
 *   Fixed a bug which caused an error to occur when upgrading the package
