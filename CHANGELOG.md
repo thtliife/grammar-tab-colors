@@ -2,6 +2,9 @@
 
 ## Changelog
 
+### 0.2.8 - *2016-11-10*
+
+*   Fixed a typo throwing an undefined variable error
 
 ### 0.2.7 - *2016-11-10*
 
