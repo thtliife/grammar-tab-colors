@@ -3,7 +3,7 @@
 ## Changelog
 
 
-### 0.2.6 - *2016-11-10*
+### 0.2.7 - *2016-11-10*
 
 *   Fixed an issue causing tabs not to decorate on upgrade until window reload
 
